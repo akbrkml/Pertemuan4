@@ -1,0 +1,22 @@
+#Sat May 13 22:26:15 WIB 2017
+renamed.6=classes6.dex
+renamed.5=classes2.dex
+renamed.4=classes4.dex
+renamed.3=classes5.dex
+renamed.2=classes7.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.6=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a6d85920865081597189cde93fb9b211126ed9
+base.5=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a06deb052a02e8f8439ffe352f4a2e0b705999
+base.4=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d882fc7a0b289844916aabf06520047b322ab04c
+base.3=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5d181621c7d953f0cb2c8a2264c5ed044230de0
+base.2=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62cc87f85de5a27d3fb672578f8f8aa2707a655b
+base.1=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_366ca2f22cc8cfee6e758a11be9a55a29fa9cd13
+base.0=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce169c01ca0f4d008e5ed4a17cc2bc2a8ac4a375
+file.6=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a6d85920865081597189cde93fb9b211126ed9/classes.dex
+file.5=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a06deb052a02e8f8439ffe352f4a2e0b705999/classes.dex
+file.4=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d882fc7a0b289844916aabf06520047b322ab04c/classes.dex
+file.3=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5d181621c7d953f0cb2c8a2264c5ed044230de0/classes.dex
+file.2=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62cc87f85de5a27d3fb672578f8f8aa2707a655b/classes.dex
+file.1=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_366ca2f22cc8cfee6e758a11be9a55a29fa9cd13/classes.dex
+file.0=/home/akbar/AndroidStudioProjects/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce169c01ca0f4d008e5ed4a17cc2bc2a8ac4a375/classes.dex
